@@ -55,7 +55,7 @@ export default function RootLayout({
               color: "gray",
             }}
           >
-            © 2024 ImagifyText SKY
+            © 2025 ImagifyText SKY
           </footer>
         </ThemeProvider>
       </body>
